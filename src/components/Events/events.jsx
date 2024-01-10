@@ -18,8 +18,11 @@ const Events = () => {
   const control6 = useAnimation()
   const control7 = useAnimation()
   const control8 = useAnimation()
+  const control9 = useAnimation()
+  const control10 = useAnimation()
+  const control11 = useAnimation()
 
-  const controls = [control1, control2, control3, control4, control5, control6, control7, control8 ]
+  const controls = [control1, control2, control3, control4, control5, control6, control7, control8 , control9, control10, control11]
   const [controlIndex, setControlIndex] = useState(0)
   const [isAnimating, setIsAnimating] = useState(false)
   const [currentIndex, setCurrentIndex] = useState(0)

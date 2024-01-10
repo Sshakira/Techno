@@ -77,22 +77,6 @@ let eventsData = [
 	contact3: '+91 7039254058'
 
     },
- //    {
- //      id: 5,
- //      title: "Techno Escapade",
- //      brief: "In a bustling city, Max, a former graffiti artist turned archaeologist, seeks wealth and luxury. To...",
- //      description: "In a bustling city, Max, a former graffiti artist turned archaeologist, seeks wealth and luxury. To achieve this, he plans an elaborate heist on the Temple Run Museum, facing challenges of a clear path and a formidable security team led by Detective Sarah. As they both prepare for the showdown, the story unfolds as an epic battle of wits, determination, and destiny.",
- //      imgname:"technoquaser.png",
- //      reglink: "https://unstop.com/p/technoescapade-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-854850",
- //      pdf: "https://drive.google.com/file/d/174c7nhWA--en3WTGFSeObjGWE3UrraeV/view?usp=sharing",
-
-	// coordinator1: 'Manav Shah',
- //        coordinator2: 'Muskan Thadani',
- //        contact1: '+91 9987088255',
- //        contact2: '+91 8652351301',
-
-
- //    },
     {
       id: 5,
       title: "Technodyssey",
@@ -110,13 +94,50 @@ let eventsData = [
 
     },
     {
+
+    // to be updated
       id: 6,
-      title: "RoboSumo",
-      brief: "Get ready for the electrifying Sumo War at Technovanza 24'! Robotic gladiators will battle it out ...",
-      description: "Get ready for the electrifying Sumo War at Technovanza 24'! Robotic gladiators will battle it out in three distinct zones, testing their adaptability, speed, and tactical prowess. Witness the future of robotics and the ultimate showdown of strength, strategy, and artificial intelligence. Stay tuned for the champion of the robosumo competition!",
-      imgname:"robosumo.png",
-      reglink: "https://unstop.com/competitions/robosumo-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-860840",
-      pdf: "https://drive.google.com/file/d/12ZFddfZChO8lzngC-4NIrUfavb8m6SNK/view?usp=sharing",
+      title: "Cubing Competition",
+      brief: "Calling all the passionate cubers in Mumbai! Get ready for an exhilarating experience by VMCO, the VJTI Mumbai Cube Open",
+      description: "Calling all the passionate cubers in Mumbai! Get ready for an exhilarating experience by VMCO, the VJTI Mumbai Cube Open, at Technovanza VJTI. We invite you to showcase your cubing skills and compete in thrilling that promises excitement, challenges and fantastic prizes.",
+      imgname: "vmco.jpg",
+      reglink: "https://docs.google.com/forms/d/e/1FAIpQLSePjQWAnbvKUPcd89YulApAuJcbKWJVrnxjOCJFCsL0axcG1w/viewform",
+      pdf: "https://docs.google.com/forms/d/e/1FAIpQLSePjQWAnbvKUPcd89YulApAuJcbKWJVrnxjOCJFCsL0axcG1w/viewform",
+
+
+	coordinator1: 'Pranali Sethna',
+        coordinator2: 'Yashovardhan Joshi',
+        contact1: '+91 8999764974',
+        contact2: '+91 8265023677',
+
+
+    },
+    {
+      id: 7,
+      title: "Robo Wars",
+      brief: "Technovanza is bringing back the higly anticipated Robowars! and this time, its going to be bigger and better than ever before",
+      description: "Technovanza is bringing back the higly anticipated Robowars! and this time, its going to be bigger and better than ever before! Get ready for jaw dropping battles, mind-blowing technology, and adrenaline-pumping action! Dont miss out this epic event where the most skilled Robotic warriors will competete for glory and supremacy!",
+      imgname:"wars.jpeg",
+      reglink: "https://unstop.com/p/technovanza-vjti-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-853130",
+      pdf: "https://unstop.com/api/competition/get-attachment/659e6127b3436_ROBOWARS__1_.pdf",
+
+
+	coordinator1: 'Mohar Tryambake',
+        coordinator2: 'Atyah Pawaskar',
+        contact1: '+91 8169324193',
+        contact2: '+91 9967968577',
+
+
+    },
+    {
+	    // to be updated ong
+      id: 8,
+      title: "Technovanza Trading Wars",
+      brief: "Stockgrow and Technovanza have joined forces to create an electrifying showdown like no other!",
+      description: "Stockgrow and Technovanza have joined forces to create an electrifying showdown like no other! Prepare to showcase your talents, push your limits, and compete for the ultimate glory! This collaboration is set to redefine what it means to be a champion.",
+      imgname:"stock.jpg",
+      reglink: "https://community.stockgro.club/form/87f1c40c-f21e-44ff-b030-0a1ab9c55f81",
+      pdf: "https://community.stockgro.club/form/87f1c40c-f21e-44ff-b030-0a1ab9c55f81",
 
 
 	coordinator1: 'Faran Shaikh',
@@ -125,7 +146,44 @@ let eventsData = [
         contact2: '+91 7506771667',
 
 
+    },
+    {
+	    // to be updated ong
+      id: 9,
+      title: "Avishkar hack-24",
+      brief: "Join us for a thrilling coding marathon where innovation meets technology.",
+      description: "Join us for a thrilling coding marathon where innovation meets technology. Put your skills to the test, collaborate with fellow tech enthusiasts, and create groundbreaking solutions. With M-Indicator backing us, this hackathon is set to be an unforgettable experience. Don't miss out on this opportunity to showcase your talent and make a mark in the tech world.",
+      imgname:"hack.jpg",
+      reglink: "https://hackathon.mobond.com",
+      pdf: "https://hackathon.mobond.com",
+
+	coordinator1: 'kunal goudani',
+        contact1: '+91 9321870875',
+
+
+    },
+    {
+	    // to be updated ong
+      id: 10,
+      title: "Smart City",
+      brief: "Embracing innovation, enhancing lives our Smart City evolves with technology, fostering sustainability, connectivity, and efficiency.",
+      description: "Embracing innovation, enhancing lives our Smart City evolves with technology, fostering sustainability, connectivity, and efficiency. A landscape where cutting-edge infrastructure meets community engagement, promoting seamless mobility, eco-friendly solutions, and digital empowerment. We pave the way for a vibrant, inclusive urban haven, where the fusion of smart systems and citizen participation cultivates a thriving, forward-thinking environment",
+      imgname:"smartcity.png",
+      reglink: "https://forms.gle/8j4DU11kYeTPFZUr9",
+      pdf: "https://forms.gle/8j4DU11kYeTPFZUr9",
+
+
+
+	coordinator1: 'Tejas Shinde',
+        coordinator2: 'Rahul Thorat',
+	coordinator3: 'Atharva Narkar',
+        contact1: '+91 7719864127',
+        contact2: '+91 9021258686',
+	contact3: '+91 8999389615'
+
     }
+
+
 
 ]
 
