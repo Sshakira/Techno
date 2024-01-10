@@ -162,28 +162,6 @@ let eventsData = [
 
 
     },
-    {
-	    // to be updated ong
-      id: 10,
-      title: "Smart City",
-      brief: "Embracing innovation, enhancing lives our Smart City evolves with technology, fostering sustainability, connectivity, and efficiency.",
-      description: "Embracing innovation, enhancing lives our Smart City evolves with technology, fostering sustainability, connectivity, and efficiency. A landscape where cutting-edge infrastructure meets community engagement, promoting seamless mobility, eco-friendly solutions, and digital empowerment. We pave the way for a vibrant, inclusive urban haven, where the fusion of smart systems and citizen participation cultivates a thriving, forward-thinking environment",
-      imgname:"smartcity.png",
-      reglink: "https://forms.gle/8j4DU11kYeTPFZUr9",
-      pdf: "https://forms.gle/8j4DU11kYeTPFZUr9",
-
-
-
-	coordinator1: 'Tejas Shinde',
-        coordinator2: 'Rahul Thorat',
-	coordinator3: 'Atharva Narkar',
-        contact1: '+91 7719864127',
-        contact2: '+91 9021258686',
-	contact3: '+91 8999389615'
-
-    }
-
-
 
 ]
 
