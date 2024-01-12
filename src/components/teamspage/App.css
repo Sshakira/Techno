@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App {
+  display: flex;
+  justify-content: space-around; /* Adjust as needed, like space-between or center */
+  align-items: center;
+  flex-wrap: wrap; /* Allow cards to wrap to the next row on smaller screens */
+}
+
+.UserProfileCard {
+  margin: 10px; 
+}
+
+
